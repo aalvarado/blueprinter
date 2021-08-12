@@ -893,6 +893,19 @@ Output:
 
 ---
 </details>
+  
+<details>
+<summary>Caching</summary>
+  
+---
+A naive approach to caching an expensive user scope:
+  
+### Example:
+```ruby
+  
+```
+  
+</details>
 
 
 <details>
